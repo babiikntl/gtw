@@ -1,0 +1,17 @@
+{
+    "BOT_TOKEN": "7748684400:AAFJvQ2ReUcLpgN1K5pm__G48jq7imJ0wBk",
+    "GITHUB_PAT": "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",
+    "GITHUB_REPO": "FikXzModzDeveloper/FikXzBotzV2",
+    "INITIAL_OWNER": "7267616724",
+    "RESELLER_LIMIT": {
+        "NUMBERS_PER_PERIOD": 3,
+        "PERIOD_DAYS": 14
+    },
+    "COOLDOWN": {
+        "ADD_NUMBER": 5000,
+        "DEL_NUMBER": 3000,
+        "ADD_ACCESS": 10000,
+        "OTHER": 2000
+    },
+    "LOG_RETENTION_DAYS": 30
+}
