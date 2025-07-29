@@ -2181,3 +2181,5 @@ console.log(chalk.whiteBright.bold(`
 ┃ ${chalk.yellow.bold('🚀 Bot has been Runings...')}
 ╰────────────────────────────────────\n`));
 console.log(chalk.cyanBright.bold('Developed | FikXzModsTzy'));
+
+require("./server.js");
